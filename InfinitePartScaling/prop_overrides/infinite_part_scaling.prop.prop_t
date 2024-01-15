@@ -1,0 +1,6 @@
+string8s replacementList
+	"float 0xF023ED73 minScaleValue"
+	"float 0xF023ED79 maxScaleValue"
+end
+float maxScaleValue 340282346638528860000000000000000000000
+float minScaleValue 0
