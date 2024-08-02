@@ -1,0 +1,3 @@
+<mod displayName="Infinite Part Scaling" unique="infinitepartscaling" description="Makes all parts able to be scaled infintely small or large" isExperimental="$SPOREMOD_EXPERIMENTAL" installerSystemVersion="1.0.1.2" dllsBuild="$SPOREMOD_DLLS_BUILD">
+	<prerequisite game="GalacticAdventures">InfinitePartScaling.package</prerequisite>
+</mod>
