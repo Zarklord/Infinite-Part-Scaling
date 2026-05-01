@@ -1,6 +1,10 @@
 string8s replacementList
-	"float 0xF023ED73 minScaleValue"
-	"float 0xF023ED79 maxScaleValue"
+	"float 0xF023ED73 minScaleValueModel"
+	"float 0xF023ED79 maxScaleValueModel"
+	"float 0xFE0926F6 minScaleValueJoint"
+	"float 0x21D55D8C maxScaleValueJoint"
 end
-float maxScaleValue 340282346638528860000000000000000000000
-float minScaleValue 0
+float maxScaleValueModel 340282346638528860000000000000000000000
+float maxScaleValueJoint 340282346638528860000000000000000000000
+float minScaleValueModel 0
+float minScaleValueJoint 0
